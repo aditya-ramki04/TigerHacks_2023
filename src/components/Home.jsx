@@ -24,6 +24,9 @@ export default function Home() {
                     <Typography variant="h6" color="inherit" component="div">
                     Photos
                     </Typography>
+                    <Typography variant="h6" color="inherit" component="div">
+                    Photos
+                    </Typography>
                 </Toolbar>
                 </AppBar>
              <Breadcrumbs aria-label="breadcrumb">
