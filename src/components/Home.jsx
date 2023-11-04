@@ -21,6 +21,9 @@ export default function Home() {
                     <IconButton edge="start" color="inherit" aria-label="menu" sx={{ mr: 2 }}>
                         <MenuIcon />
                     </IconButton>
+                    <IconButton edge="start" color="inherit" aria-label="menu" sx={{ mr: 2 }}>
+                        <MenuIcon />
+                    </IconButton>
                     <Typography variant="h6" color="inherit" component="div">
                     Photos
                     </Typography>
